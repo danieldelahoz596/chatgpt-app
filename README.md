@@ -2,26 +2,13 @@
 
 # ChatGPT Desktop App
 
-![Stars](https://img.shields.io/github/stars/mantreshkhurana/ChatGPT-electron?style=social)
-
 This is a desktop app for [ChatGPT](https://chat.openai.com/), a chatbot that uses GPT-3 to have conversations with you.
 
-![Screenshot](https://raw.githubusercontent.com/mantreshkhurana/ChatGPT-electron/stable/screenshots/screenshot-1.png)
-
-## Downloads
-
-- [Windows (90 MB)](https://github.com/mantreshkhurana/ChatGPT-electron/releases/download/1.0.0/ChatGPT-v1.0.0-windows.zip)
-- [macOS (84 MB)](https://github.com/mantreshkhurana/ChatGPT-electron/releases/download/1.0.0/ChatGPT-v1.0.0-darwin.zip)
-- [Linux (66 MB)](https://github.com/mantreshkhurana/ChatGPT-electron/releases/download/1.0.0/ChatGPT-v1.0.0-linux.tar.xz)
-
-## Releases
-
-- [Latest Release](https://github.com/mantreshkhurana/ChatGPT-electron/releases)
 
 ## Installation
 
 ```bash
-git clone https://github.com/mantreshkhurana/ChatGPT-electron.git
+git clone https://github.com/danieldelahoz596/chatgpt-app.git
 cd ChatGPT-electron
 npm install
 ```
